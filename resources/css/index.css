@@ -5,10 +5,6 @@
   font-size: 14px;
 }
 
-header {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
-}
-
 h1 {
   font-size: 70px;
   font-weight: bold;
@@ -40,7 +36,7 @@ footer {
   text-align: left;
 }
 
-.message {
+.flat_iron {
   color: white;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
